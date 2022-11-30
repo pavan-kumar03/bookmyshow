@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.login{
+    width: 370px;
+    height: 33px;
+}
+.login input{
+    margin-inline:11px;
+    width: 337px;
+    height: 33px;
+    outline: none;
+    padding: 0 0 0 10px;
+    margin-top: 21px;
+    border-radius: 7px;
+}
+.remember {
+    width: 22px;
+}
